@@ -39,3 +39,5 @@ pids/
 __pycache__/
 *.py[cod]
 *.pyo
+python-implementation/demos-pyside6/FIXES_COMPLETE.md
+python-implementation/demos/archive/
