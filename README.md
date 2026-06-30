@@ -5,8 +5,8 @@ React component library for building terminal-style user interfaces.
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/wesellis/TECH-Fine-Use-Design-System-React-55-Terminal-UI-Components?style=flat-square)](https://github.com/wesellis/TECH-Fine-Use-Design-System-React-55-Terminal-UI-Components/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/wesellis/TECH-Fine-Use-Design-System-React-55-Terminal-UI-Components?style=flat-square)](https://github.com/wesellis/TECH-Fine-Use-Design-System-React-55-Terminal-UI-Components/commits)
+[![Stars](https://img.shields.io/github/stars/wesellis/fine-use-design-system?style=flat-square)](https://github.com/wesellis/fine-use-design-system/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/wesellis/fine-use-design-system?style=flat-square)](https://github.com/wesellis/fine-use-design-system/commits)
 
 ## Overview
 
@@ -170,7 +170,7 @@ const MyTerminal: React.FC<TerminalProps> = (props) => {
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fine-use-design-system
+git clone https://github.com/wesellis/fine-use-design-system
 cd fine-use-design-system
 
 # Install dependencies
@@ -221,8 +221,6 @@ MIT License - See [LICENSE](LICENSE) for details.
 ---
 
 ## Project Status & Roadmap
-
-**Completion: ~30%**
 
 ### What Works
 - ✅ Project structure and organization

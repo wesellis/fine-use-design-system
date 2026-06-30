@@ -34,3 +34,8 @@ pids/
 # Cache
 .npm
 .cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
